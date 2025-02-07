@@ -13,13 +13,6 @@ Hello! I'm a passionate developer who loves to create and contribute to open-sou
 - [GitHub Stats](#github-stats)
 - [Thank You for Visiting](#thank-you-for-visiting)
 
-## Skills
-
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C++%20%7C%20Java-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...SVG BASE64 DATA...)
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js%20%7C%20Django-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...SVG BASE64 DATA...)
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Kubernetes-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...SVG BASE64 DATA...)
-![Other](https://img.shields.io/badge/Other-Machine%20Learning%20%7C%20Data%20Science-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...SVG BASE64 DATA...)
-
 ## Projects
 
 ### [Project 1](https://github.com/km1000101/project1)
