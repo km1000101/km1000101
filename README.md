@@ -2,15 +2,15 @@
 
 
 <p align="center">
-  <img src="your-profile-picture.jpg" width="150px" alt="Profile Picture of YourName">
+  <img src="pro.jpg" width="150px" alt="Profile Picture of YourName">
 </p>
 
 <p align="center">
-  Hi, I'm YourName! I'm a <b>[Your Profession]</b> with a passion for <b>[Your Interest]</b>. ✨
+  Hi, I'm Kishan km I'm an <b>[AI enthusiast]</b> with a passion for <b>[knowledge]</b>. ✨
 </p>
 
 ## :bust_in_silhouette: About Me
-- 🎓 I studied **Computer Science** at **XYZ University**.
+- 🎓 I  am  studing **Computer Science & Artificial Intelligence**.
 - 💻 I specialize in **Python**, **JavaScript**, and **React**.
 - 🌱 Currently diving into **Machine Learning** and **Blockchain**.
 - ⚡ Fun fact: I've run 3 marathons!
