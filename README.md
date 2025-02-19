@@ -1,19 +1,20 @@
-# <center>YourName</center>
+# YourName
+
 <p align="center">
-  <img src="your-profile-picture.jpg" width="150px" alt="YourName Profile Picture">
+  <img src="your-profile-picture.jpg" width="150px" alt="Profile Picture of YourName">
 </p>
 
 <p align="center">
   Hi, I'm YourName! I'm a <b>[Your Profession]</b> with a passion for <b>[Your Interest]</b>. ✨
 </p>
 
-## <center>:bust_in_silhouette: About Me</center>
+## :bust_in_silhouette: About Me
 - 🎓 I studied **Computer Science** at **XYZ University**.
 - 💻 I specialize in **Python**, **JavaScript**, and **React**.
-- 🌱 I'm currently diving into **Machine Learning** and **Blockchain**.
+- 🌱 Currently diving into **Machine Learning** and **Blockchain**.
 - ⚡ Fun fact: I've run 3 marathons!
 
-## <center>:hammer_and_wrench: Skills & Tools</center>
+## :hammer_and_wrench: Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -22,26 +23,25 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## <center>:star: Projects</center>
+## :star: Projects
 
-### [<b>Project Name</b>](link-to-project)
+### [Project Name](link-to-project)
 - **Description:** A dynamic web application for real-time collaboration.
 - **Tech Stack:** React, Node.js, WebSocket
 - **Demo:** [Live Demo](URL)
 
-### [<b>Another Project</b>](link-to-another-project)
+### [Another Project](link-to-another-project)
 - **Description:** An AI-driven recommendation system for books.
 - **Tech Stack:** Python, TensorFlow, Flask
 - **Demo:** [Live Demo](URL)
 
-<!-- Add more projects similarly -->
-
-## <center>:chart_with_upwards_trend: GitHub Stats</center>
+## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## <center>:mailbox: Contact</center>
+## :mailbox: Contact
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
