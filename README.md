@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nGW4/giphy.gif" alt="Data Flow Visualization" width="450"/>
+  <img src="[Your-Image-URL-Here]" alt="Profile Picture" width="200" style="border-radius: 50%;"/>
 </p>
 
 # Welcome! I’m [Your Name]
