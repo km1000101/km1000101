@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[Your-Image-URL-Here]" alt="Profile Picture" width="200" style="border-radius: 50%;"/>
+  <img src=https://github.com/km1000101/Readme/blob/main/profile_pic.png alt="Profile Picture" width="200" style="border-radius: 50%;"/>
 </p>
 
 # Welcome! I’m [Your Name]
