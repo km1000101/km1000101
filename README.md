@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/km1000101/Readme/main/profile_pic.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #FFD700;"/>
 </p>
 
-# Welcome! I’m [Your Name]
+# Welcome! I’m Kishan km
 
-**Data Scientist | Machine Learning Specialist | Data-Driven Innovator**
+**Data Scientist | Machine Learning Enthusiast | Data-Driven Innovator**
 
 I’m a data scientist specializing in machine learning, predictive modeling, and data visualization. My work centers on turning complex datasets into actionable insights to support strategic decision-making. I bring proficiency in Python, SQL, and cloud platforms, with a passion for solving real-world challenges through data.
 
