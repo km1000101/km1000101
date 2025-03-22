@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/km1000101/Readme/main/1000192292-removebg-preview (2).png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #FFD700;"/>
+  <img src="https://raw.githubusercontent.com/km1000101/Readme/main/1000192292-removebg-preview (1) (2).png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #FFD700;"/>
 </p>
 
 # Welcome! I’m Kishan km
