@@ -6,6 +6,9 @@
 I’m a data scientist specializing in machine learning, predictive modeling, and data visualization. My work centers on turning complex datasets into actionable insights to support strategic decision-making. I bring proficiency in Python, SQL, and cloud platforms, with a passion for solving real-world challenges through data.
 
 ---
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=km1000101&color=blue&style=flat)
 
 ## 🛠️ Technical Expertise
 
