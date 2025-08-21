@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Chandan S Gowda</h1>
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h1 align="center">Hi 👋, I'm Kishan km</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan&label=Profile%20views&color=0e75b6&style=flat" alt="kishan" /> </p>
 
-- 🌱 I’m currently learning **System Design and Agentic AI**
+- 🌱 I’m currently learning **Data Science and Deep learning**
 
 - 👨‍💻 I’m currently working on [Devr.AI](https://github.com/AOSSIE-Org/Devr.AI) and [HackCulture](https://www.hackculture.in)
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1pYo7QPOi49r7bQD5Z0NZ6QfnAQkycAwh/view?usp=drive_link)
 
-- 💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
+- 💻 All of my projects are available on [GitHub](https://github.com/km1000101)
 
-- 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
+- 📽️ I regularly updates on  [My linkedin ](linkedin.com/in/kishankm08)
 
 - 💬 Ask me about **Apps, Backend and Artificial Intelligence**
 
-- 📫 Reach out to me at **chandansgowda167@gmail.com**
+- 📫 Reach out to me at **kishankm2004@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 
