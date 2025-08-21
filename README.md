@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available on [GitHub](https://github.com/km1000101)
 
-- 📽️ I regularly updates on  [My linkedin ](linkedin.com/in/kishankm08)
+- 📽️ I regularly updates on  [My linkedin ](https://www.linkedin.com/in/kishankm08?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhpJQmA6UTfi6BssFzbgl7Q%3D%3D)
 
 - 💬 Ask me about **Apps, Backend and Artificial Intelligence**
 
